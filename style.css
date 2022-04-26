@@ -1,0 +1,22 @@
+body{
+    background-color: greenyellow;
+}
+
+#score{
+    font-size: 35px;
+    margin-left: 20px;
+}
+
+#timer{
+    font-size: 35px;
+    margin-right: 20px;
+    float: right;
+}
+
+#show_sketch{
+    float: right;
+}
+
+#sketch_name{
+    color: red;
+}
